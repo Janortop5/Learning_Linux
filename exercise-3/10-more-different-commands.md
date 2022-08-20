@@ -3,7 +3,7 @@
           example: $lsof -u vagrant <br>
           example screenshot:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-cloud-exercises/main/exercise-3/images-of-example/lsof%20-%20u%20vagrant.png?token=GHSAT0AAAAAABXPGCK5LGEEIZ5EJYIVFKTYYYBNM7A" width=100%"/>
+  <img src="https://raw.githubusercontent.com/Janortop5/altschool-profile-template/main/lsof%20-%20u%20vagrant.png" width=100%"/>
 </div>
 <br>      
 
