@@ -3,7 +3,7 @@
           example: $lsof -u vagrant <br>
           example screenshot:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-cloud-exercises/main/exercise-3/images-of-example/lsof%20-%20u%20vagrant.png?token=GHSAT0AAAAAABXPGCK4FEQ2UQTETOIW2UZ4YYBMLSA" width=100%"/>
+  <img src="https://raw.githubusercontent.com/Janortop5/altschool-cloud-exercises/main/exercise-3/images-of-example/lsof%20-%20u%20vagrant.png?token=GHSAT0AAAAAABXPGCK5U5QVPS7J25PRF4RGYYBNKVA" width=100%"/>
 </div>
 <br>      
 
@@ -11,7 +11,7 @@
           example: $w <br>
           example screenshot: 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-cloud-exercises/main/exercise-3/images-of-example/w%20-%20see%20who's%20online.png?token=GHSAT0AAAAAABXPGCK4UUPRDY23LW52FMYAYYBMVAQ" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Janortop5/altschool-cloud-exercises/main/exercise-3/images-of-example/w%20-%20see%20who's%20online.png?token=GHSAT0AAAAAABXPGCK4EQ3T6AYJSJFEG62EYYBNLJQ" width="100%"/>
 </div>               
 <br>
                                                                                                                                       
@@ -19,7 +19,7 @@
           example: $hostname<br>
           example screenshot:<br>                                                                                                                                     
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Janortop5/altschool-cloud-exercises/main/exercise-3/images-of-example/hostname.png?token=GHSAT0AAAAAABXPGCK4D7TBM44LPQ4QGEBIYYBNBGA" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Janortop5/altschool-cloud-exercises/main/exercise-3/images-of-example/hostname.png?token=GHSAT0AAAAAABXPGCK43SKRMUBOZRMTZYZUYYBNLZA" width="100%"/>
 </div>                                                                                                                                         
           
 4. Command "$last reboot": This command shows system reboot history.<br>
