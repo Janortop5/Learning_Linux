@@ -1,0 +1,31 @@
+---
+- name: Setup Web Server
+  hosts: all
+  remote_user: root
+  
+  tasks:
+  - name: install Apache server
+    apt:
+      name: apache2
+      state: present
+  - name: start Apache server, if not started
+    service:
+      name: apache2
+      state: started
+  - name: add php repo to repo list
+    apt_repository:
+      repo: ppa:ondrej/php
+      state: present
+  - name: install php7.4
+    apt:
+      name: php7.4
+      state: present
+  - name: set timezone to Africa/Lagos
+    timezone:
+      name: Africa/Lagos  
+  - name: Copy php file to /var/www/html
+    copy:
+      src: /home/janortop5/ansible/index.php
+      dest: /var/www/html
+  
+
