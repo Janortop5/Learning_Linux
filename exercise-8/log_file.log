@@ -1,0 +1,40 @@
+Sun Sep 18 01:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      153620      463528        3460      382932      692764
+Swap:             0           0           0
+---
+Sun Sep 18 18:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      162328      398876        3480      438876      683592
+Swap:             0           0           0
+---
+Sun Sep 18 19:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      166376      291536        3480      542168      675984
+Swap:             0           0           0
+---
+Sun Sep 18 20:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      166900      280348        3480      552832      675172
+Swap:             0           0           0
+---
+Sun Sep 18 21:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      167136      271880        3480      561064      674828
+Swap:             0           0           0
+---
+Sun Sep 18 22:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      167048      263892        3480      569140      674772
+Swap:             0           0           0
+---
+Sun Sep 18 23:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      166944      258104        3480      575032      674760
+Swap:             0           0           0
+---
+Mon Sep 19 00:00:01 WAT 2022
+              total        used        free      shared  buff/cache   available
+Mem:        1000080      187536      228860        3480      583684      661528
+Swap:             0           0           0
+---
